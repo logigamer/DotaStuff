@@ -6,10 +6,7 @@
     padding-bottom: 2%;
 
 }
-nav{
-    height: 10vh;
-    background-color:red;
-}
+
 h1{
     font-family: Poppins;
     font-weight: bolder;
@@ -96,3 +93,6 @@ footer{
     background: grey;
     height: 10vh;
 }
+body::-webkit-scrollbar {
+    display: none;
+  }
